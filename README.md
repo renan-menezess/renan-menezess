@@ -10,5 +10,5 @@
   <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-menezess&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div>
-![Snake animation](https://github.com/renan-menezess/renan-menezess/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/renan-menezess)
 </div>
