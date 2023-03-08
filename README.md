@@ -1,7 +1,7 @@
 ### Opa!! Eu sou o Renan Coelho
 
-- :student: Cursando Front-End com parceria Ford Fund no **SENAI** São Paulo
-- :man_technologist: Cursando Faculdade de Infomática para Negócios na **FATEC MAUÁ**
+- :man_technologist: Cursando Front-End com parceria Ford Fund no **SENAI** São Paulo
+- :man_student: Cursando Faculdade de Infomática para Negócios na **FATEC MAUÁ**
 - :detective: Aprimorando os conhecimentos em **Front-end HTML, CSS, JavaScript e Back-end C#,SQL**
 - :earth_americas: Santo André - ABC
 
