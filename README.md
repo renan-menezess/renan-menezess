@@ -6,6 +6,10 @@
 - :earth_americas: Santo André - ABC
 - :airplane: Buscando sempre novos aprendizados!!
 - :bookmark_tabs: Certificações :arrow_down:
+
+
+
+
 - ![Speed](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMIkWh-Q00Hl9PJndHUBoCZeD4-TWU0oolVQ&usqp=CAU)
 
 <div>
