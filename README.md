@@ -10,7 +10,7 @@
 
 - :bookmark_tabs: Certificações :arrow_down:
 
-![SENAI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuIV0O7dUO_3bh47JS7NGJUdZYpIxMvBSLAw&usqp=CAU)
+![SENAI] <img height="20cm" src ="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuIV0O7dUO_3bh47JS7NGJUdZYpIxMvBSLAw&usqp=CAU)"/>
 - Excel Básico **SENAI** 
 
 ![BRADESCO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfvTLZ7vgn00r_m07DrOOdOvGN18iqZBmEuA&usqp=CAU)
