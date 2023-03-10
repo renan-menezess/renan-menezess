@@ -7,9 +7,10 @@
 - :airplane: Buscando sempre novos aprendizados!!
 - :bookmark_tabs: Certificações :arrow_down:
 
+![SENAI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5a7CKrr70S0YTuCMQZ0BugfAvbeL438pow&usqp=CAU)
 - Excel Básico **SENAI** 
 
-![SENAI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5a7CKrr70S0YTuCMQZ0BugfAvbeL438pow&usqp=CAU)
+
 
 <div>
    <a href="https://github.com/renan-menezess">
