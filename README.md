@@ -6,12 +6,10 @@
 - :earth_americas: Santo André - ABC
 - :airplane: Buscando sempre novos aprendizados!!
 - :bookmark_tabs: Certificações :arrow_down:
+
 - Excel Básico **SENAI** 
+
 ![SENAI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5a7CKrr70S0YTuCMQZ0BugfAvbeL438pow&usqp=CAU)
-
-
-
-- ![Speed](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMIkWh-Q00Hl9PJndHUBoCZeD4-TWU0oolVQ&usqp=CAU)
 
 <div>
    <a href="https://github.com/renan-menezess">
