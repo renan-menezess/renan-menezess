@@ -5,12 +5,15 @@
 - :detective: Aprimorando os conhecimentos em **Front-end HTML, CSS e JavaScript e Back-end C# e SQL**
 - :earth_americas: Santo André - ABC
 - :airplane: Buscando sempre novos aprendizados!!
+
+![F1](https://64.media.tumblr.com/tumblr_ln9h8zf50N1qlt7lao1_400.gifv)
+
 - :bookmark_tabs: Certificações :arrow_down:
 
 ![SENAI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuIV0O7dUO_3bh47JS7NGJUdZYpIxMvBSLAw&usqp=CAU)
 - Excel Básico **SENAI** 
 
-####![BRADESCO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfvTLZ7vgn00r_m07DrOOdOvGN18iqZBmEuA&usqp=CAU)
+![BRADESCO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfvTLZ7vgn00r_m07DrOOdOvGN18iqZBmEuA&usqp=CAU)
 - Excel Intermediário **Fundação Bradesco**
 
 ![ALURA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6IYgml2ecWRhKue4tC0EZBL19VwK_-YKtlNFjz6qqhcHLGSyNhTm6pC0qNsQVZEisW0&usqp=CAU)
