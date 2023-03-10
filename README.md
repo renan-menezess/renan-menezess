@@ -6,7 +6,7 @@
 - :earth_americas: Santo André - ABC
 - :airplane: Buscando sempre novos aprendizados!!
 - :bookmark_tabs: Certificações :arrow_down:
-
+- Excel Básico **SENAI**
 
 
 
