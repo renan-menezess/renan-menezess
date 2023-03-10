@@ -5,7 +5,8 @@
 - :detective: Aprimorando os conhecimentos em **Front-end HTML, CSS e JavaScript e Back-end C# e SQL**
 - :earth_americas: Santo André - ABC
 - :airplane: Buscando sempre novos aprendizados!!
-- FRONT END BACK END
+
+- FRONT END BACK END :robot:
 
 <div>
    <a href="https://github.com/renan-menezess">
