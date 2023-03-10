@@ -6,7 +6,8 @@
 - :earth_americas: Santo André - ABC
 - :airplane: Buscando sempre novos aprendizados!!
 - :bookmark_tabs: Certificações :arrow_down:
-- Excel Básico **SENAI**
+- Excel Básico **SENAI** 
+![SENAI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5a7CKrr70S0YTuCMQZ0BugfAvbeL438pow&usqp=CAU)
 
 
 
