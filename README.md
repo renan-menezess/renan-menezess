@@ -6,7 +6,7 @@
 - :earth_americas: Santo André - ABC
 - :airplane: Buscando sempre novos aprendizados!!
 
-![F1](https://64.media.tumblr.com/tumblr_ln9h8zf50N1qlt7lao1_400.gifv)
+<img height="50cm" src ="https://64.media.tumblr.com/tumblr_ln9h8zf50N1qlt7lao1_400.gifv"/>
 
 - :bookmark_tabs: Certificações :arrow_down:
 
