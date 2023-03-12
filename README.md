@@ -1,4 +1,4 @@
-### Opa!! Eu sou o Renan Coelho
+### Opa!! Eu sou o Renan Menezes!!
 
 - :man_technologist: Cursando Front-End com parceria Ford Fund no **SENAI** São Paulo
 - :man_student: Cursando Faculdade de Infomática para Negócios na **FATEC MAUÁ**
