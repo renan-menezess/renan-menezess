@@ -12,5 +12,12 @@
    <a href="https://github.com/renan-menezess">
   <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=renan-menezess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-menezess&layout=compact&langs_count=16&theme=dark"/>
+   </a>
+</div>
+
+<div style="display: inline_block"> <br>
+  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />  
+  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
