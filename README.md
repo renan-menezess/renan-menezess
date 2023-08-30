@@ -1,4 +1,4 @@
-<h1> Opa!! Eu sou o Renan Menezes | Cursando Informática para Negócios | </h1>
+<h1> Opa!! Eu sou o Renan Menezes! | Cursando Informática para Negócios | </h1>
 <img align="center" height="70cm" src ="https://64.media.tumblr.com/tumblr_ln9h8zf50N1qlt7lao1_400.gifv"/>
 
 <div>
