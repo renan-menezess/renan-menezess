@@ -1,4 +1,4 @@
-<h1> Opa!! Eu sou o Renan Menezes! | Cursando Informática para Negócios | </h1>
+<h1> Opa!! Eu sou o Renan Menezes! </h1>
 
 <div>
   <a href="https://github.com/renan-menezess">
