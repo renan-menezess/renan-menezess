@@ -20,7 +20,9 @@
   <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-</div> <br>
+</div>
+
+##
 
 <div>
     <a href="https://www.linkedin.com/in/renancoelhodasilvamenezes" target="_blank"><img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
